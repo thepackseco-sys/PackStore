@@ -15,6 +15,11 @@ jobs:
     - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
       with:
         persist-credentials: false
+    - name: Set Pack build version
+      run: python3 .pack/set_build_version.py
+      env:
+        PACK_RUN_NUMBER: ${{ github.run_number }}
+        PACK_RUN_ATTEMPT: ${{ github.run_attempt }}
     - uses: actions/setup-java@b843ebf9b913146b38da2eaa7aeddf76074ae1ad
       with:
         distribution: temurin
@@ -28,3 +33,7 @@ jobs:
         if-no-files-found: error
         retention-days: 1
       if: ${{ false }}
+    - name: Stage exact unsigned APK
+      run: python3 .pack/stage_unsigned.py
+    permissions:
+      contents: read
