@@ -48,7 +48,7 @@
     <string name="open_qr_code_scanner">Åpne QR-kode-skanner</string>
     <string name="swap_welcome">Velkommen til F-Droid!</string>
     <string name="swap_confirm_connect">Ønsker du å hente pakker fra %1$s nå?</string>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="theme_dark">Mørkt</string>
     <string name="about_source">Kildekode</string>
     <string name="app_incompatible">Ukompatibel</string>
@@ -179,7 +179,7 @@
     <string name="has_disallow_install_unknown_sources_globally">Din enhetsadministrator tillater ikke installasjon av programmer fra ukjente kilder. Dette gjelder også nye pakkebrønner.</string>
     <string name="has_disallow_install_unknown_sources">Ukjente kilder kan ikke legges til av denne brukeren. Dette gjelder også nye pakkebrønner.</string>
     <string name="menu_release_channel_beta">Tillat betaoppdateringer</string>
-    <string name="app_name_basic">F-Droid Basic</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="pref_export_log_title">Feilsøkingslogg</string>
     <string name="pref_export_log_summary">Lager en fil med informasjon fra logcat, som kan være nyttig for feilsøkning. Merk at den kan inneholde sensitiv informasjon!</string>
     <string name="export_log_success">Logcat lagret</string>
@@ -253,8 +253,8 @@
     <string name="expand">Utvid</string>
     <string name="collapse">Minimer</string>
     <string name="crash_dialog_title_old">F-Droid krasjet</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
-    <string name="app_name_basic_nightly">F-Nightly Basic</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="menu_about">Om</string>
     <string name="menu_discover">Oppdag</string>
     <string name="menu_apps_my">Mine apper</string>

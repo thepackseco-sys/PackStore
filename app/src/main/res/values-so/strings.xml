@@ -15,7 +15,7 @@
     <string name="menu_search">Raadi</string>
     <string name="back">Ka noqo</string>
     <string name="updates">Cusbonaysiinta</string>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="notification_title_summary_install_error">Ku shubidii ma guulaysanin</string>
     <string name="notification_title_single_update_available">Cusboonaysiin ayaa diyaar ah</string>
     <string name="crash_dialog_title">F-Droid way khalkhashay</string>

@@ -56,7 +56,7 @@
     <string name="open_qr_code_scanner">Otvoriť skener QR kódov</string>
     <string name="swap_welcome">Víta vás F-Droid!</string>
     <string name="swap_confirm_connect">Chcete získať aplikácie z %1$s hneď?</string>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="about_source">Zdrojový kód</string>
     <string name="app_incompatible">Nekompatibilné</string>
     <string name="links">Linky</string>
@@ -184,7 +184,7 @@
     <string name="has_disallow_install_unknown_sources_globally">Administrátor Vášho zariadenia nepovoluje inštalovať aplikácie z neznámych zdrojov, a to zahŕňa aj nové repozitáre</string>
     <string name="has_disallow_install_unknown_sources">Neznáme zdroje nemôžu byť pridané týmto užívateľom, to zahŕňa aj nové repozitáre</string>
     <string name="menu_release_channel_beta">Povoliť beta aktualizácie</string>
-    <string name="app_name_basic">F-Droid Basic</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="about_title_basic">O F-Droide Basic</string>
     <string name="app_details_repository">Repozitár</string>
     <string name="app_details_repository_expand">Rozbaliť zoznam repozitárov</string>
@@ -208,8 +208,8 @@
     <string name="repo_state_adding">Pridávanie repozitára…</string>
     <string name="repo_error_adding_archive">Archívne repozitáre nemožno pridávať priamo. Ťuknite na repozitár v zozname a povoľte archív tam.</string>
     <string name="repo_add_new_title">Pridať repozitár</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
-    <string name="app_name_basic_nightly">F-Nightly Basic</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="menu_about">O aplikácii</string>
     <string name="menu_discover">Objaviť</string>
     <string name="menu_apps_my">Moje aplikácie</string>

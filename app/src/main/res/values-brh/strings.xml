@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="updates">اپڈیٹ اک</string>
     <string name="yes">ہاو</string>
     <string name="no">آخہ</string>

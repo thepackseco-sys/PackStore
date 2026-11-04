@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name_full">เอฟ-ดรอยด์</string>
+    <string name="app_name_full">PackStore</string>
     <string name="installIncompatible">แอปเข้ากันไม่ได้กับอุปกรณ์ของคุณ ติดตั้งหรือไม่\?</string>
     <string name="version">รุ่น</string>
     <string name="delete">ลบ</string>
@@ -180,7 +180,7 @@
     <string name="swap_connection_indexv0_error">คุณกำลังพยายามเชื่อมต่อกับบุคคลที่มี F-Droid เวอร์ชันล้าสมัย หากต้องการเชื่อมต่อต้องอัปเกรดแอป F-Droid พวกเขาสามารถใช้ การสลับแลกเปลี่ยน เพื่ออัปเดตแอป F-Droid จากคุณได้</string>
     <string name="notification_channel_installs_description">แสดงการแจ้งเตือนการติดตั้งแอป</string>
     <string name="nearby_splash__read_external_storage">ค้นหาการ์ด SD เพื่อหา repos และ แหล่งข้อมูล</string>
-    <string name="app_name_basic">F-Droid พื้นฐาน</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="swap_visible_hotspot">มองเห็นได้ผ่านฮอตสปอต</string>
     <string name="has_disallow_install_unknown_sources">ผู้ใช้รายนี้ไม่สามารถเพิ่มแหล่งที่มาที่ไม่รู้จักได้ ซึ่งรวมถึงที่เก็บใหม่ด้วย</string>
     <string name="notification_channel_swaps_title">สลับ</string>
@@ -235,8 +235,8 @@
     <string name="app_list_author">แอพพลิเคชั่นโดย %s</string>
     <string name="app_list_new">แอพพลิเคชั่นใหม่</string>
     <string name="crash_dialog_title_old">F-Droid เกิดข้อผิดพลาด</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
-    <string name="app_name_basic_nightly">F-Nightly พื้นฐาน</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="menu_discover">สำรวจ</string>
     <string name="first_start_offline">คุณออฟไลน์อยู่ เชื่อมต่อกับอินเทอร์เน็ตเพื่อเริ่มต้น</string>
     <string name="my_apps_header_recently_installed_apps">ติดตั้งล่าสุด</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="SignatureMismatch">La nueva versión está firmada con una llave diferente a la antigua. Para instalar la nueva versión, la antigua debe ser desinstalada primero. Hacé esto y probá de nuevo, por favor. (Tené en cuenta que al desinstalar, todos los datos internos guardados de la aplicación serán eliminados)</string>
     <string name="installIncompatible">Aplicación incompatible con tu dispositivo, ¿instalar igual\?</string>
     <string name="version">Versión</string>
@@ -176,9 +176,9 @@
     <string name="swap_wifi_vpn_conflict">¡Conflictos con la VPN activa!</string>
     <string name="has_disallow_install_unknown_sources">Este usuario no puede agregar fuentes desconocidas, esto incluye nuevos repositorios</string>
     <string name="menu_release_channel_beta">Permitir Actualizaciones Beta</string>
-    <string name="app_name_basic">F-Droid Basic</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
-    <string name="app_name_basic_nightly">F-Nightly Básico</string>
+    <string name="app_name_basic">PackStore</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="menu_about">Sobre</string>
     <string name="menu_discover">Descubrir</string>
     <string name="menu_apps_my">Mis apps</string>

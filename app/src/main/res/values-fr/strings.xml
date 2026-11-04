@@ -47,7 +47,7 @@
     <string name="open_qr_code_scanner">Ouvrir le lecteur de codes QR</string>
     <string name="swap_welcome">Bienvenue sur F-Droid !</string>
     <string name="swap_confirm_connect">Voulez-vous télécharger des applications de %1$s maintenant ?</string>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="about_source">Code source</string>
     <string name="app_incompatible">Incompatible</string>
     <string name="links">Liens</string>
@@ -175,7 +175,7 @@
     <string name="has_disallow_install_unknown_sources_globally">La sécurité de votre appareil est paramétrée pour interdire l\'installation d\'applications provenant de sources inconnues et cette règle s\'applique aux nouveaux dépôts.</string>
     <string name="swap_wifi_vpn_conflict">Conflit avec le VPN actif !</string>
     <string name="menu_release_channel_beta">Autoriser les mises à jour bêta</string>
-    <string name="app_name_basic">F-Droid Basic</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="about_title_basic">À propos de F-Droid Basic</string>
     <string name="swap_banner_message">Pour échanger des applications, activez le Wi-Fi et connectez-vous au même réseau que votre ami.</string>
     <string name="turn_on_wifi">Activer le Wi-Fi</string>
@@ -254,8 +254,8 @@
         <item quantity="other">%1$d mises à jour disponibles</item>
     </plurals>
     <string name="crash_dialog_title_old">F-Droid avait planté</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
-    <string name="app_name_basic_nightly">F-Nightly Basic</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="call_to_action_keepandroidopen">F-Droid est menacé. Google modifie la manière dont vous installez les applications sur votre appareil. Nous avons besoin de votre aide.</string>
     <string name="call_to_action_keepandroidopen_url">https://keepandroidopen.org</string>
     <string name="menu_about">À propos</string>

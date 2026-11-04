@@ -2,12 +2,12 @@
 <resources>
 
     <!-- The Android strings follow the Material Design writing style: https://m3.material.io/foundations/content-design and https://m1.material.io/style/writing.html The guidelines are only available in English, but they are intended to apply to all languages. -->
-    <string name="app_name_full">F-Droid</string>
-    <string name="app_name_basic">F-Droid Basic</string>
+    <string name="app_name_full">PackStore</string>
+    <string name="app_name_basic">PackStore</string>
     <!-- The app name of nightly builds, shortened to fit reduced space for app names -->
-    <string name="app_name_full_nightly">F-Nightly</string>
+    <string name="app_name_full_nightly">PackStore</string>
     <!-- The app name of nightly builds, shortened to fit reduced space for app names -->
-    <string name="app_name_basic_nightly">F-Nightly Basic</string>
+    <string name="app_name_basic_nightly">PackStore</string>
 
     <string name="menu_about">About</string>
     <string name="menu_discover">Discover</string>

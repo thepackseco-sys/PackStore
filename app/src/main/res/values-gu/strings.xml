@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="main_menu__categories">શ્રેણીઓ</string>
-    <string name="app_name_full">ઍફ઼-ડ્રૉઇડ</string>
+    <string name="app_name_full">PackStore</string>
     <string name="menu_settings">સુયોજનો</string>
     <string name="main_menu__swap_nearby">નજીકમાં</string>
     <string name="updates">સૂચના</string>
@@ -67,7 +67,7 @@
     <string name="installing">સ્થાપિત થાય છે…</string>
     <string name="theme_light">તેજ</string>
     <string name="theme_dark">ઘેરી</string>
-    <string name="app_name_basic">ઍફ઼-ડ્રોઇડ બુનિયાદી</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="by_author_format">%s દ્વારા</string>
     <string name="install_history">ઇતિહાસ સ્થાપિત કરો</string>
     <string name="notification_title_single_update_available">અદ્યતન ઉપલબ્ધ છે</string>

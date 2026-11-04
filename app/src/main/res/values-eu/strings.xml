@@ -30,7 +30,7 @@
     <string name="display">Bistaratzea</string>
     <string name="theme">Azala</string>
     <string name="repo_confirm_delete_title">Biltegia ezabatu?</string>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="installIncompatible">Aplikazioa zure gailuarekin bateraezina da, instalatu halere?</string>
     <string name="theme_dark">Iluna</string>
     <string name="theme_light">Argia</string>
@@ -184,7 +184,7 @@
     <string name="has_disallow_install_unknown_sources">Erabiltzaile honek ezin ditu jatorri ezezagunak gehitu, biltegi berriak barne</string>
     <string name="menu_release_channel_beta">Beta eguneraketak baimendu</string>
     <string name="turn_on_wifi">Aktibatu wifia</string>
-    <string name="app_name_basic">F-Droid Basic</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="about_title_basic">F-Droid Basic-i buruz</string>
     <string name="repo_intro">Biltegi bat aplikazioen iturri gehigarria da. Hemen gehitzen dituzun hirugarrenen biltegiek estandar desberdinak dituzte F-Droidek berak sortutako aplikazioak eskaintzen dituztenek baino.
 \n
@@ -262,8 +262,8 @@
         <item quantity="one">Eguneraketa eskuragarri %1$d</item>
         <item quantity="other">%1$d eguneraketa eskuragarri</item>
     </plurals>
-    <string name="app_name_full_nightly">F-Nightly</string>
-    <string name="app_name_basic_nightly">F-Nightly Basic</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="menu_about">Honi buruz</string>
     <string name="menu_discover">Ezagutu</string>
     <string name="menu_apps_my">Nire aplikazioak</string>

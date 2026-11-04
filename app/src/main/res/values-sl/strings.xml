@@ -17,7 +17,7 @@
     <string name="menu_website">Spletišče</string>
     <string name="menu_issues">Težave</string>
     <string name="menu_source">Izvorna koda</string>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="installIncompatible">Izgleda, da aplikacija ni kompatibilna z vašo napravo. Ali jo želite vseeno poskusiti namestiti?</string>
     <string name="delete">Izbriši</string>
     <string name="back">Nazaj</string>
@@ -174,12 +174,12 @@
     <string name="has_disallow_install_unknown_sources_globally">Skrbnik vaše naprave ne dovoljuje nameščanja aplikacij iz neznanih virov, kar vključuje nove repozitorije</string>
     <string name="theme_follow_system">Sledite sistemu</string>
     <string name="has_disallow_install_unknown_sources">Ta uporabnik ne more dodati neznanih virov, kar vključuje nove repozitorije</string>
-    <string name="app_name_basic">Osnoven F-Droid</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="about_title_basic">O osnovnem F-Droid</string>
     <string name="menu_release_channel_beta">Dovoli beta posodobitve</string>
     <string name="pref_export_log_title">Dnevnik za razhroščevanje</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
-    <string name="app_name_basic_nightly">F-Nightly osnovno</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="menu_about">O</string>
     <string name="menu_discover">Odkrijte</string>
     <string name="menu_apps_my">Moje aplikacije</string>

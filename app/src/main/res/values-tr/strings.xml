@@ -49,7 +49,7 @@
     <string name="open_qr_code_scanner">Karekod tarayıcısını aç</string>
     <string name="swap_welcome">F-Droid\'e hoş geldiniz!</string>
     <string name="swap_confirm_connect">%1$s cihazından şimdi uygulama almak istiyor musunuz\?</string>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="about_source">Kaynak kod</string>
     <string name="about_license">Lisans</string>
     <string name="app_incompatible">Uyumsuz</string>
@@ -177,7 +177,7 @@
     <string name="has_disallow_install_unknown_sources_globally">Aygıt yöneticiniz, yeni depolar da dahil olmak üzere bilinmeyen kaynaklardan uygulama yüklemeye izin vermiyor</string>
     <string name="swap_wifi_vpn_conflict">Etkin VPN ile çakışıyor!</string>
     <string name="menu_release_channel_beta">Beta güncellemelerine İzin Ver</string>
-    <string name="app_name_basic">F-Droid Basit</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="about_title_basic">F-Droid Temel Hakkında</string>
     <string name="turn_on_wifi">Kablosuz bağlantıyı aç</string>
     <string name="repo_state_adding">Depo ekleniyor…</string>
@@ -266,8 +266,8 @@
     <string name="category_group_media">Eğlence ve Medya</string>
     <string name="category_group_communication">İletişim</string>
     <string name="category_group_interests">İlgi Alanları</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
-    <string name="app_name_basic_nightly">F-Nightly Basit</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="first_start_loading">Uygulama depoları getiriliyor…</string>
     <string name="my_apps_empty">Burada yalnızca %1$s\'nin depolarında bulunan uygulamalar gösterilmektedir</string>
     <string name="my_apps_header_apps_with_issue">Sorunlu uygulamalar</string>

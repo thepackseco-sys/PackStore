@@ -20,7 +20,7 @@
     <string name="theme">Temă</string>
     <string name="menu_email">Trimitere e-mail către autor</string>
     <string name="SignatureMismatch">Noua versiune este semnată cu o cheie diferită față de versiunea veche. Pentru a putea instala noua versiune, cea veche trebuie întâi dezinstalată. Vă rugam sa faceți asta și să reîncercați. (Nu uitați că procesul de dezinstalare al aplicației o să șteargă datele interne stocate ale acesteia)</string>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="no_such_app">Nici o aplicație găsită.</string>
     <string name="about_source">Cod sursă</string>
     <string name="about_license">Licență</string>
@@ -176,7 +176,7 @@
     <string name="swap_wifi_vpn_conflict">Conflict cu VPN-ul activ!</string>
     <string name="menu_release_channel_beta">Permite actualizări beta</string>
     <string name="about_title_basic">Despre F-Droid Basic</string>
-    <string name="app_name_basic">F-Droid Basic</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="swap_banner_message">Pentru a face schimb de aplicații, porniți Wi-Fi și conectați-vă la aceeași rețea ca și prietenul dvs.</string>
     <string name="turn_on_wifi">Porniți Wi-Fi</string>
     <string name="repo_add_new_title">Adaugă depozit</string>
@@ -254,8 +254,8 @@
         <item quantity="other">%1$d de actualizări disponibile</item>
     </plurals>
     <string name="crash_dialog_title_old">F-Droid a dat o eroare</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
-    <string name="app_name_basic_nightly">F-Nightly Basic</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="menu_about">Despre</string>
     <string name="menu_discover">Descoperă</string>
     <string name="menu_apps_my">Aplicațiile mele</string>

@@ -49,7 +49,7 @@
     <string name="open_qr_code_scanner">QR 스캐너 열기</string>
     <string name="swap_welcome">F-Droid에 오신 것을 환영합니다!</string>
     <string name="swap_confirm_connect">지금 %1$s(으)로부터 앱을 받겠습니까?</string>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="about_source">소스 코드</string>
     <string name="about_license">라이선스</string>
     <string name="app_incompatible">호환되지 않음</string>
@@ -177,7 +177,7 @@
     <string name="has_disallow_install_unknown_sources_globally">기기 관리자가 새 저장소를 포함해 알 수 없는 출처로부터의 앱 설치를 허용하지 않음</string>
     <string name="swap_wifi_vpn_conflict">실행중인 VPN과 충돌합니다!</string>
     <string name="menu_release_channel_beta">베타 업데이트 허용</string>
-    <string name="app_name_basic">F-Droid 베이직</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="about_title_basic">F-Droid 베이직 정보</string>
     <string name="app_details_repositories">저장소</string>
     <string name="app_details_repository">저장소</string>
@@ -282,8 +282,8 @@
     <string name="crash_dialog_title_old">F-Droid에서 충돌이 일어났습니다</string>
     <string name="call_to_action_keepandroidopen">F-Droid가 위험에 처했습니다. 구글이 여러분의 기기에 앱을 설치하는 방식을 바꾸려고 합니다. 여러분의 도움이 필요합니다.</string>
     <string name="call_to_action_keepandroidopen_url">https://keepandroidopen.org</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
-    <string name="app_name_basic_nightly">F-Nightly 베이직</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="my_apps_header_apps_with_issue">문제가 있는 앱</string>
     <string name="my_apps_ignore_dialog_title">문제 숨기기</string>
     <string name="my_apps_ignore_dialog_text">\"%1$s\"의 이 버전에 있는 문제를 숨깁니다</string>

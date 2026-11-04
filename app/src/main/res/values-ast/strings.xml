@@ -49,7 +49,7 @@
     <string name="open_qr_code_scanner">Open QR Scanner</string>
     <string name="swap_welcome">¡Afáyate en F-Droid!</string>
     <string name="swap_confirm_connect">Do you want to get apps from %1$s now\?</string>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="swap_connecting">Connecting</string>
     <string name="swap_cant_find_peers">¿Nun pues atopar a quien busques\?</string>
     <string name="swap_send_fdroid">Unviar F-Droid</string>

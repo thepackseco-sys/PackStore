@@ -28,7 +28,7 @@
     <string name="theme">Téma</string>
     <string name="repo_confirm_delete_body">Egy tároló törlése azt jelenti, hogy a belőle származó alkalmazások többé nem lesznek elérhetőek.\n\nMegjegyzés: az összes, korábban telepített alkalmazás az eszközön marad.</string>
     <string name="delete">Törlés</string>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="about_source">Forráskód</string>
     <string name="about_license">Licenc</string>
     <string name="app_incompatible">Nem kompatibilis</string>
@@ -174,7 +174,7 @@
     <string name="swap_wifi_vpn_conflict">Ütközések az aktív VPN-nel!</string>
     <string name="has_disallow_install_unknown_sources">Ez a felhasználó nem adhat hozzá ismeretlen forrásokat, ebbe a tárolókat is beleértve</string>
     <string name="menu_release_channel_beta">Béta frissítések engedélyezése</string>
-    <string name="app_name_basic">Alap F-Droid</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="about_title_basic">Az Alap F-Droid névjegye</string>
     <string name="turn_on_wifi">Wi-Fi bekapcsolása</string>
     <string name="repo_invalid">Érvénytelen tároló.\n\nLépjen kapcsolatba a karbantartóval, és értesítse a problémáról.</string>
@@ -249,8 +249,8 @@
         <item quantity="other">%1$d frissítés érhető el</item>
     </plurals>
     <string name="crash_dialog_title_old">Az F-Droid összeomlott</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
-    <string name="app_name_basic_nightly">F-Nightly Alap</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="menu_about">Névjegy</string>
     <string name="menu_discover">Felfedezés</string>
     <string name="menu_apps_my">Saját alkalmazások</string>

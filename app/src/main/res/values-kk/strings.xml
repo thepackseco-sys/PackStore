@@ -75,14 +75,14 @@
     <string name="repo_confirm_delete_title">Репозиторийді өшіру керек пе?</string>
     <string name="repo_official_mirrors">Ресми айналар</string>
     <string name="delete">Өшіру</string>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="less">Азырақ</string>
     <string name="more">Тағы</string>
     <string name="menu_overflow_description">Қосымша опциялар</string>
     <string name="icon">Таңбаша</string>
     <string name="swap_toast_hotspot_enabled">Wi-Fi кіру нүктесі іске қосылды</string>
     <string name="swap_setting_up_bluetooth">Bluetooth бапталуда…</string>
-    <string name="app_name_basic">F-Droid Basic</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="swap_wifi_vpn_conflict">Белсенді VPN-мен қайшылық туындады!</string>
     <string name="SignatureMismatch">Жаңа нұсқа ескісінен басқа кілтпен қол қойылған. Жаңа нұсқаны орнату үшін алдымен ескісін өшіру керек. Мұны орындап, қайталап көріңіз. (Өшіру қолданба сақтаған кез келген ішкі деректерді өшіретінін ескеріңіз)</string>
     <string name="installIncompatible">Қолданба құрылғыңызбен үйлесімді емес, бәрібір орнату керек пе?</string>
@@ -319,8 +319,8 @@
     <string name="call_to_action_keepandroidopen_url">https://keepandroidopen.org</string>
     <string name="theme_light">Ашық</string>
     <string name="theme_dark">Қараңғы</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
-    <string name="app_name_basic_nightly">F-Nightly Basic</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="my_apps_empty">Мұнда тек %1$s репозиторийлерінде қолжетімді қолданбалар көрсетіледі</string>
     <string name="category_group_health">Денсаулық</string>
     <string name="category_group_summary_health">Фитнес, дұрыс тамақтану және медициналық қолданбалар</string>

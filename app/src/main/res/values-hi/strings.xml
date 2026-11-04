@@ -25,7 +25,7 @@
     <string name="theme_light">रोशनी</string>
     <string name="theme_dark">अंधेरा</string>
     <string name="crash_dialog_title">एफ-ड्रॉइड क्रैश हो गया है</string>
-    <string name="app_name_full">एफ-ड्रॉइड</string>
+    <string name="app_name_full">PackStore</string>
     <string name="installIncompatible">यह ऐप्लिकेशन आपके डिवाइस के लिए अनुकुल नहीं है, क्या आप इसे फिर भी स्थापित करना चाहते हैं\?</string>
     <string name="swap_connecting">कनेक्ट हो रहा है</string>
     <string name="swap_confirm">अदला-बदली की पुष्टि करे</string>
@@ -178,7 +178,7 @@
     <string name="swap_wifi_vpn_conflict">सक्रिय वीपीएन के साथ संघर्ष!</string>
     <string name="menu_release_channel_beta">बीटा अपडेट की अनुमति दें</string>
     <string name="about_title_basic">एफ-ड्रॉइड बेसिक के बारे में</string>
-    <string name="app_name_basic">एफ-ड्रॉइड बेसिक</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="repo_state_adding">रिपॉज़िटरी जोड़ा जा रहा है…</string>
     <string name="repo_invalid">अमान्य रिपॉज़िटरी।
 \n

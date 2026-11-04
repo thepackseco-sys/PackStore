@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="SignatureMismatch">Die nuwe weergawe is geteken met \'n ander sleutel as die vorige een. Om die nuwe weergawe te installeer moet die vorige een eers verwyder word. Doen dit asseblief eers en probeer dan weer. (Neem egter kennis dat de-installasie alle interne data wat deur die program gestoor is sal verloor)</string>
     <string name="installIncompatible">Hierdie progam nie aanpasbaar is met you toestel nie. Wil jy in elk geval probeer?</string>
     <string name="version">Weergawe</string>
@@ -170,7 +170,7 @@
     <string name="app_suggested">Voorgestel</string>
     <string name="about_forum">Ondersteuningsforum</string>
     <string name="apps">Apps</string>
-    <string name="app_name_basic">F-Droid Basies</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="menu_about">Oor</string>
     <string name="menu_discover">Ontdek</string>
     <string name="menu_apps_my">Myn toeps</string>
@@ -183,8 +183,8 @@
     <string name="category_group_device">Toestel</string>
     <string name="category_group_games">Spelletjies</string>
     <string name="category_group_network">Netwerk</string>
-    <string name="app_name_full_nightly">F-Nagliks</string>
-    <string name="app_name_basic_nightly">F-Nagliks Basies</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="first_start_loading">Kry app repositories…</string>
     <string name="first_start_intro">Om te begin, sinkroniseer die app repositories</string>
     <string name="first_start_offline">Jy is van lyn af. Konnekteer aan die Internet om te begin.</string>

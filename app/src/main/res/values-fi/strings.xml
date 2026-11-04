@@ -42,7 +42,7 @@
     <string name="open_qr_code_scanner">Avaa QR-koodinlukija</string>
     <string name="swap_welcome">Tervetuloa F-Droidiin!</string>
     <string name="swap_confirm_connect">Haluatko ladata sovelluksia lähteestä %1$s nyt?</string>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="crash_dialog_title">F-Droid on kaatunut</string>
     <string name="about_source">Lähdekoodi</string>
     <string name="about_license">Lisenssi</string>
@@ -177,7 +177,7 @@
     <string name="menu_release_channel_beta">Salli beetapäivitykset</string>
     <string name="about_title_basic">Tietoja F-Droid Basicista</string>
     <string name="repo_add_new_title">Lisää ohjelmavarasto</string>
-    <string name="app_name_basic">F-Droid Basic</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="copied_to_clipboard">Kopioitu leikepöydälle</string>
     <string name="turn_on_wifi">Laita Wi-Fi päälle</string>
     <string name="nearby_splace__external_storage_permission_button">Yritä</string>
@@ -279,8 +279,8 @@
     <string name="my_apps_ignore_dialog_text">Ongelma sovelluksen \"%1$s\" versiossa ohitetaan</string>
     <string name="category_group_productivity">Tuottavuus</string>
     <string name="category_group_tools">Työkalut</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
-    <string name="app_name_basic_nightly">F-Nightly Basic</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="menu_discover">Löydä</string>
     <string name="first_start_intro">Aloita synkronoimalla sovellusten pakettivarastot</string>
     <string name="first_start_offline">Olet offline-tilassa. Yhdistä Internetiin aloittaaksesi.</string>

@@ -41,7 +41,7 @@
     <string name="open_qr_code_scanner">Otwórz skaner kodów QR</string>
     <string name="swap_welcome">Witaj w F-Droid!</string>
     <string name="swap_confirm_connect">Czy chcesz teraz pobrać aplikacje od %1$s\?</string>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="SignatureMismatch">Nowa wersja jest podpisana innym kluczem niż stara. Aby zainstalować nową wersję, należy najpierw odinstalować starą. Zrób to i spróbuj ponownie. (Pamiętaj, że odinstalowanie spowoduje usunięcie wszelkich wewnętrznych danych przechowywanych przez aplikację)</string>
     <string name="app_incompatible">Niezgodna</string>
     <string name="app_installed">Zainstalowana</string>
@@ -177,7 +177,7 @@
     <string name="swap_wifi_vpn_conflict">Konflikty z włączonym VPN-em!</string>
     <string name="menu_release_channel_beta">Zezwalaj na aktualizacje wersji beta</string>
     <string name="about_title_basic">O F-Droid Basic</string>
-    <string name="app_name_basic">F-Droid Basic</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="swap_banner_message">Aby zamienić aplikacje, włącz Wi-Fi i połącz się z tą samą siecią co druga osoba.</string>
     <string name="turn_on_wifi">Włącz Wi-Fi</string>
     <string name="repo_add_new_title">Dodaj repozytorium</string>
@@ -261,8 +261,8 @@
         <item quantity="other">%1$d dostępnych aktualizacji</item>
     </plurals>
     <string name="crash_dialog_title_old">F-Droid uległ awarii</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
-    <string name="app_name_basic_nightly">F-Nightly Basic</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="call_to_action_keepandroidopen">F-Droid jest zagrożony. Google zmienia sposób, w jaki instalujesz aplikacje na swoim urządzeniu. Potrzebujemy Twojej pomocy.</string>
     <string name="call_to_action_keepandroidopen_url">https://keepandroidopen.org</string>
     <string name="menu_about">O aplikacji</string>

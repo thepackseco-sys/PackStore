@@ -45,7 +45,7 @@
     <string name="open_qr_code_scanner">Mở trình quét mã QR</string>
     <string name="swap_welcome">Chào mừng bạn đến với F-Droid!</string>
     <string name="swap_confirm_connect">Bạn có muốn nhận ứng dụng từ %1$s?</string>
-    <string name="app_name_full">F-DroidF-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="links">Liên kết</string>
     <string name="back">Quay lại</string>
     <string name="about_source">Mã nguồn</string>
@@ -175,7 +175,7 @@
     <string name="has_disallow_install_unknown_sources">Thiết bị này không cho phép cài đặt ứng dụng từ nguồn chưa biết, bao gồm những kho mới</string>
     <string name="has_disallow_install_unknown_sources_globally">Thiết bị của bạn không cho phép cài đặt ứng dụng từ nguồn chưa biết, bao gồm những kho ứng dụng mới</string>
     <string name="menu_release_channel_beta">Cập nhật các phiên bản beta</string>
-    <string name="app_name_basic">F-Droid Basic</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="about_title_basic">Về F-Droid Basic</string>
     <string name="app_details_repository">Kho ứng dụng</string>
     <string name="app_details_repository_preferred">(ưu tiên)</string>
@@ -266,7 +266,7 @@
     <string name="developer_contact">Liên hệ nhà phát triển</string>
     <string name="package_name">Tên gói:</string>
     <string name="installed_version">Phiên bản đã cài đặt:</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
+    <string name="app_name_full_nightly">PackStore</string>
     <string name="app_list_new">Mới ra mắt</string>
     <string name="app_list_recently_updated">Mới cập nhật</string>
     <string name="app_list_most_downloaded">Được tải nhiều nhất</string>
@@ -274,7 +274,7 @@
     <string name="app_list_author">Ứng dụng từ %s</string>
     <string name="search_placeholder">Tìm…</string>
     <string name="menu_discover">Khám phá</string>
-    <string name="app_name_basic_nightly">F-Nightly Basic</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="menu_about">Giới thiệu</string>
     <string name="menu_apps_my">Đã cài đặt</string>
     <string name="first_start_loading">Đang nạp kho ứng dụng…</string>

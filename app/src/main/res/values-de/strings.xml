@@ -55,7 +55,7 @@
     <string name="banner_updating_repositories">Paketquellenaktualisierung</string>
     <string name="pref_language">Sprache</string>
     <string name="wifi">WLAN</string>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="menu_changelog">Änderungen</string>
     <string name="more">Mehr</string>
     <string name="menu_overflow_description">Weitere Optionen</string>
@@ -174,7 +174,7 @@
     <string name="has_disallow_install_unknown_sources_globally">Dein Geräteadministrator lässt die Installation von Apps aus unbekannten Quellen nicht zu, das schließt neue Paketquellen ein</string>
     <string name="swap_wifi_vpn_conflict">Konflikte mit aktivem VPN!</string>
     <string name="menu_release_channel_beta">Beta-Updates zulassen</string>
-    <string name="app_name_basic">F-Droid Basic</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="about_title_basic">Über F-Droid Basic</string>
     <string name="repo_io_error">Fehler beim Verbindungsaufbau mit der Paketquelle.</string>
     <string name="turn_on_wifi">WLAN einschalten</string>
@@ -249,8 +249,8 @@
         <item quantity="other">%1$d Aktualisierungen verfügbar</item>
     </plurals>
     <string name="crash_dialog_title_old">F-Droid ist abgestürzt</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
-    <string name="app_name_basic_nightly">F-Nightly Basic</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="call_to_action_keepandroidopen">F-Droid ist in Gefahr. Google ändert die Art und Weise, wie du Apps auf deinem Gerät installierst. Wir brauchen deine Hilfe.</string>
     <string name="call_to_action_keepandroidopen_url">https://keepandroidopen.org</string>
     <string name="menu_about">Über</string>

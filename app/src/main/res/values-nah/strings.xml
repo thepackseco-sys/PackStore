@@ -33,5 +33,5 @@
     <string name="crash_dialog_title">F-Droid motzacua</string>
     <string name="notification_title_single_update_available">Anehuatzi Mochihua Yancuic</string>
     <string name="notification_title_summary_install_error">Otitlali ahmo cualli</string>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
 </resources>

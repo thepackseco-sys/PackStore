@@ -55,7 +55,7 @@
     <string name="panic_app_setting_none">ஒன்றுமில்லை</string>
     <string name="app__install_downloaded_update">புதுப்பிக்கவும்</string>
     <string name="icon">சின்னம்</string>
-    <string name="app_name_full">எஃப்-ட்ராய்டு (F-Droid)</string>
+    <string name="app_name_full">PackStore</string>
     <string name="pref_language">மொழி</string>
     <string name="menu_open">திற</string>
     <string name="by_author_format">%s ஆல்</string>
@@ -178,7 +178,7 @@
     <string name="menu_release_channel_beta">பீட்டா புதுப்பிப்புகளை அனுமதி</string>
     <string name="ipfsgw_add_title">IPFS நுழைவாயில் சேர்க்கவும்</string>
     <string name="auto_update_time_past">நிபந்தனைகள் நிறைவு செய்யப்படும்போது அடுத்த புதுப்பிப்பு</string>
-    <string name="app_name_basic">எஃப்-டிராய்டு அடிப்படை</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="about_title_basic">எஃப்-டிராய்டு அடிப்படை பற்றி</string>
     <string name="copied_to_clipboard">இடைநிலைப்பலகைக்கு நகலெடுக்கப்பட்டது</string>
     <string name="repo_list_info_title">களஞ்சிய பட்டியல்</string>
@@ -224,8 +224,8 @@
     <string name="ipfsgw_title">ஐபிஎஃப்எச் நுழைவாயில்கள்</string>
     <string name="ipfsgw_explainer">IPFS வலை முனைப்புள்ளிகளிலிருந்து பயன்பாடுகளைப் பதிவிறக்கவும். (ஐபிஎஃப்எச் ஆதரவுடன் எஃப்-டிராய்டு களஞ்சியங்களுக்கு மட்டுமே வேலை செய்கிறது.)</string>
     <string name="ipfsgw_add_add">கூட்டு</string>
-    <string name="app_name_full_nightly">எஃப்-நய்ட்லி</string>
-    <string name="app_name_basic_nightly">எஃப்-நய்ட்லி அடிப்படை</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="menu_about">பற்றி</string>
     <string name="menu_discover">கண்டுபடி</string>
     <string name="menu_apps_my">என்னுடைய செயலிகள்</string>

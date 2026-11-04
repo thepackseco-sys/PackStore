@@ -28,7 +28,7 @@
 \n
 \nPastaba: Visos anksčiau įdiegtos programėlės išliks jūsų įrenginyje.</string>
     <string name="swap_welcome">Sveikiname paleidus F-Droid!</string>
-    <string name="app_name_full">„F-Droid“</string>
+    <string name="app_name_full">PackStore</string>
     <string name="back">Atgal</string>
     <string name="menu_settings">Nustatymai</string>
     <string name="main_menu__categories">Kategorijos</string>
@@ -183,7 +183,7 @@
     <string name="repo_add_new_title">Pridėti saugyklą</string>
     <string name="repo_io_error">Klaida prisijungiant prie saugyklos.</string>
     <string name="repo_enter_url">Įrašykite saugyklos adresą (URL)</string>
-    <string name="app_name_basic">„F-Droid Basic“</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="app_details_repository">Saugykla</string>
     <string name="app_details_repository_expand">Išplėskite saugyklų sąrašą</string>
     <string name="app_details_repositories">Saugyklos</string>
@@ -222,9 +222,9 @@
     <string name="pref_export_log_summary">Sukuria failą su logcat išvestimi, naudinga šalinant riktus. Atsargiai, jame gali būti jautrios informacijos!</string>
     <string name="export_log_success">Logcat sėkmingai išsaugotas</string>
     <string name="export_log_error">Klaida išsaugant logcat</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
+    <string name="app_name_full_nightly">PackStore</string>
     <string name="repo_error_adding_archive">Negalima pridėti archyvinių saugyklų tiesiogiai. Palieskite saugyklą sąraše ir įjunkite archyvą.</string>
-    <string name="app_name_basic_nightly">F-Nightly Basic</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="menu_about">Apie</string>
     <string name="menu_discover">Atraskite</string>
     <string name="menu_apps_my">Mano programėlės</string>

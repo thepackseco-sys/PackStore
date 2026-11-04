@@ -47,7 +47,7 @@
     <string name="open_qr_code_scanner">Öppna QR-kodsskannern</string>
     <string name="swap_welcome">Välkommen till F-Droid!</string>
     <string name="swap_confirm_connect">Vill du ta emot appar från %1$s nu?</string>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="app_incompatible">Inkompatibel</string>
     <string name="links">Länkar</string>
     <string name="about_source">Källkod</string>
@@ -175,7 +175,7 @@
     <string name="has_disallow_install_unknown_sources">Den här användaren får inte installera från okända källor. Det gäller även nya förråd</string>
     <string name="has_disallow_install_unknown_sources_globally">Enhetsadministratören tillåter inte installation av appar från okända källor. Det gäller även nya förråd</string>
     <string name="menu_release_channel_beta">Tillåt betauppdateringar</string>
-    <string name="app_name_basic">F-Droid Bas</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="about_title_basic">Om F-Droid Basic</string>
     <string name="copied_to_clipboard">Kopierad till urklipp</string>
     <string name="turn_on_wifi">Slå på Wi-Fi</string>
@@ -250,8 +250,8 @@
         <item quantity="other">%1$d uppdateringar tillgängliga</item>
     </plurals>
     <string name="crash_dialog_title_old">F-Droid har kraschat</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
-    <string name="app_name_basic_nightly">F-Nightly Standard</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="call_to_action_keepandroidopen">F-Droid är hotat. Google ändrar hur appar kan installeras på din enhet. Vi behöver din hjälp.</string>
     <string name="call_to_action_keepandroidopen_url">https://keepandroidopen.org</string>
     <string name="menu_about">Om</string>

@@ -172,8 +172,8 @@
     <string name="has_disallow_install_unknown_sources">Tiu ĉi uzanto ne povas aldoni novajn fontojn de aplikaĵoj por instali, inkluzivante novajn deponejojn</string>
     <string name="has_disallow_install_unknown_sources_globally">Administranto de via aparato malpermesis instali aplikaĵojn el nekonataj fontoj, inkluzivante novajn deponejojn</string>
     <string name="menu_release_channel_beta">Ĝisdatigi al beta-versioj</string>
-    <string name="app_name_full">F-Droid</string>
-    <string name="app_name_basic">F-Droid Baza</string>
+    <string name="app_name_full">PackStore</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="about_title_full">Pri F-Droid</string>
     <string name="about_title_basic">Pri F-Droid Baza</string>
     <string name="swap_banner_message">Por interŝanĝi aplikaĵojn, aktivigu vifion kaj konektu al la sama reto kiel via amiko.</string>
@@ -249,8 +249,8 @@
         <item quantity="other">%1$d ĝisdatigoj disponeblaj</item>
     </plurals>
     <string name="crash_dialog_title_old">F-Droid estis paneinta</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
-    <string name="app_name_basic_nightly">F-Nightly Baza</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="menu_about">Pri</string>
     <string name="menu_discover">Esplori</string>
     <string name="menu_apps_my">Miaj apoj</string>

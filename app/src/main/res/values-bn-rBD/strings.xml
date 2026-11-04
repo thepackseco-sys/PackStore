@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="updates">আপডেট</string>
     <string name="ok">ঠিক আছে</string>
     <string name="yes">হ্যাঁ</string>
@@ -182,9 +182,9 @@
     <string name="search_placeholder">অনুসন্ধান করুন</string>
     <string name="category_group_tools">সরঞ্জামসমূহ</string>
     <string name="category_group_interests">পছন্দসমূহ</string>
-    <string name="app_name_basic">F-Droid সাধারণ</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
-    <string name="app_name_basic_nightly">F-Nightly Basic</string>
+    <string name="app_name_basic">PackStore</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="first_start_loading">অ্যাপ রিপোসিটোরি নিয়ে আসা হচ্ছে</string>
     <string name="first_start_intro">শুরু করতে, অ্যাপ রিপোসিটোরি সিঙ্ক করুন</string>
     <string name="first_start_offline">আপনি অফলাইন রয়েছেন, শুরু করতে ইন্টারনেট এ কানেক্ট করুন</string>

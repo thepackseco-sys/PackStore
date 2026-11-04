@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="version">Útgáfa</string>
     <string name="delete">Eyða</string>
     <string name="updates">Uppfærslur</string>
@@ -175,7 +175,7 @@
     <string name="has_disallow_install_unknown_sources">Þessi notandi getur ekki bætt við óþekktum veitum, sem innifela ný hugbúnaðarsöfn</string>
     <string name="swap_wifi_vpn_conflict">Stangast á við virkt VPN!</string>
     <string name="menu_release_channel_beta">Leyfa uppfærslur á beta-prófunarútgáfum</string>
-    <string name="app_name_basic">Grunnútgáfa F-Droid</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="about_title_basic">Um grunnútgáfu F-Droid</string>
     <string name="copied_to_clipboard">Afritað á klippispjald</string>
     <string name="turn_on_wifi">Kveikja á þráðlausu neti</string>
@@ -248,8 +248,8 @@
     <string name="pref_export_log_summary">Býr til skrá með úttaki frá logcat sem nýtist við villuleit. Farðu varlega, þetta gæti innihaldið viðkvæmar upplýsingar!</string>
     <string name="export_log_success">Tókst að vista logcat-atvikaskrá</string>
     <string name="export_log_error">Villa við að vista logcat-atvikaskrá</string>
-    <string name="app_name_full_nightly">F-Nightly dagleg útgáfa</string>
-    <string name="app_name_basic_nightly">F-Nightly dagleg grunnútgáfa</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="crash_dialog_title_old">F-Droid hrundi</string>
     <string name="call_to_action_keepandroidopen">F-Droid er núna ógnað. Google ætlar að breyta því hvernig þú mátt setja upp forrit á tækjunum þínum. Við þörfnumst hjálpar frá þér.</string>
     <string name="call_to_action_keepandroidopen_url">https://keepandroidopen.org</string>

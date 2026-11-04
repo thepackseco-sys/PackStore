@@ -23,7 +23,7 @@
     <string name="next">التالي</string>
     <string name="theme">السمة</string>
     <string name="repo_confirm_delete_title">احذف المستودع؟</string>
-    <string name="app_name_full">إف-درويد</string>
+    <string name="app_name_full">PackStore</string>
     <string name="SignatureMismatch">الإصدار الجديد يحتوي على مفتاح مختلف عن القديم. لتثبيت الإصدار الجديد، يجب أن يتم إلغاء تثبيت القديم أولًا. يرجى القيام بذلك وإعادة المحاولة مرة أخرى. (علمًا أنه عند إلغاء التثبيت سيتم محو البيانات الداخلية المخزنة من قِبل التطبيق)</string>
     <string name="installIncompatible">التطبيق غير متوافق مع جهازك. هل تريد تثبيته على أي حال؟</string>
     <string name="menu_email">أرسل بريد إلكتروني إلى المؤلف</string>
@@ -175,7 +175,7 @@
     <string name="has_disallow_install_unknown_sources_globally">لا يسمح مسؤول جهازك بتثبيت التطبيقات من مصادر غير معروفة، والتي تتضمن مستودعات جديدة</string>
     <string name="swap_wifi_vpn_conflict">يتعارض مع VPN النشط!</string>
     <string name="menu_release_channel_beta">اسمح بتحديثات النسخة التجريبية</string>
-    <string name="app_name_basic">إف-درويد البسيط</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="about_title_basic">حول إف-درويد البسيط</string>
     <string name="repo_add_new_title">أضف مستودع</string>
     <string name="repo_intro">يعد المستودع مصدرًا إضافيًا للتطبيقات. تتمتع تطبيقات الجهات الخارجية التي تضيفها هنا بمعايير مختلفة عن تلك التي توفر التطبيقات بُنيت بواسطة F-Droid نفسها. \n \nيُرجى التأكد من أن المستودع الذي تضيفه جدير بالثقة.</string>
@@ -261,7 +261,7 @@
         <item quantity="many">يتوفر %1$d تحديث</item>
         <item quantity="other">يتوفر %1$d تحديث</item>
     </plurals>
-    <string name="app_name_full_nightly">F-Nightly</string>
+    <string name="app_name_full_nightly">PackStore</string>
     <string name="menu_about">عن</string>
     <string name="menu_discover">استكشف</string>
     <string name="menu_apps_my">تطبيقاتي</string>
@@ -302,7 +302,7 @@
     <string name="crash_dialog_title_old">F-Droid إنهار</string>
     <string name="call_to_action_keepandroidopen">متجر F-Droid مهدد بالخطر. جوجل بصدد تغيير الطريقة التي تثبت بها التطبيقات على جهازك. نحن بحاجة لمساعدتكم.</string>
     <string name="call_to_action_keepandroidopen_url">https://keepandroidopen.org</string>
-    <string name="app_name_basic_nightly">F-Nightly Basic</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="ipfsgw_summary_new">نزّل التطبيقات باستخدام نقاط نهاية ويب IPFS</string>
     <string name="first_start_intro">للبدء، زامِن مستودعات التطبيقات</string>
     <string name="first_start_offline">أنت غير متصل بالإنترنت. اتصل بالإنترنت للبدء.</string>

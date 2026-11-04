@@ -34,7 +34,7 @@
     <string name="yes">Si</string>
     <string name="ok">Aceptar</string>
     <string name="updates">Actualizaciones</string>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="theme_dark">Oscuro</string>
     <string name="theme_light">Claro</string>
     <string name="scan_removable_storage_toast">Escaneando %s…</string>
@@ -115,9 +115,9 @@
     <string name="panic_app_dialog_message">¿Estás seguro que deseas permitir que %1$s active las acciones destructivas del botón de pánico?</string>
     <string name="panic_app_setting_summary">No hay una app establecida</string>
     <string name="has_disallow_install_unknown_sources">Este usuario no puede añadir fuentes desconocidas, incluyendo repositorios nuevos</string>
-    <string name="app_name_basic">F-droid basico</string>
-    <string name="app_name_full_nightly">F-Nocturno</string>
-    <string name="app_name_basic_nightly">F-Nocturo Básico</string>
+    <string name="app_name_basic">PackStore</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="menu_about">Sobre</string>
     <string name="menu_discover">Descubrir</string>
     <string name="menu_apps_my">Mis apps</string>

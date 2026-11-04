@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="SignatureMismatch">應用程式的新舊版本使用了不同的金鑰簽署。如要安裝新版本，您必須先解除安裝舊版本。請於完成該操作後再試一次(注意：解除安裝將抹除該應用程式內部已存儲的資料)</string>
     <string name="installIncompatible">應用程式與您的裝置不相容。仍要繼續安裝嗎？</string>
     <string name="version">版本</string>
@@ -175,7 +175,7 @@
     <string name="has_disallow_install_unknown_sources_globally">您的裝置管理員不允許安裝來自未知來源的應用程式，其中包括新的軟體倉庫</string>
     <string name="swap_wifi_vpn_conflict">與作用中的 VPN 衝突！</string>
     <string name="menu_release_channel_beta">允許測試版更新</string>
-    <string name="app_name_basic">F-Droid Basic</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="about_title_basic">關於 F-Droid Basic</string>
     <string name="copied_to_clipboard">已複製到剪貼簿</string>
     <string name="turn_on_wifi">開啟 Wi-Fi</string>
@@ -252,8 +252,8 @@
     <string name="crash_dialog_title_old">F-Droid 當機</string>
     <string name="call_to_action_keepandroidopen">F-Droid 有事：Google 正顛覆您在您的裝置上安裝應用程式的方式，亟需眾人合力平反。請出手襄助</string>
     <string name="call_to_action_keepandroidopen_url">https://keepandroidopen.org/zh-TW</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
-    <string name="app_name_basic_nightly">F-Nightly Basic</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="first_start_loading">正在載入應用程式軟體庫…</string>
     <string name="menu_apps_my">我的應用程式</string>
     <string name="menu_about">關於</string>

@@ -15,8 +15,8 @@
     <string name="version">Leagan</string>
     <string name="by_author_format">de réir %s</string>
     <string name="delete">Scrios</string>
-    <string name="app_name_full">F-Droid</string>
-    <string name="app_name_basic">F-Droid Bunúsach</string>
+    <string name="app_name_full">PackStore</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="SignatureMismatch">Tá an leagan nua sínithe le eochair dhifriúil don seancheann. Chun an leagan nua a shuiteáil, ní mór an seancheann a dhíshuiteáil ar dtús. Déan é seo agus bain triail eile as. (Tabhair faoi deara go scriosfaidh díshuiteáil aon sonraí inmheánacha atá stóráilte ag an bhfeidhmchlár)</string>
     <string name="updates">Nuashonruithe</string>
     <string name="install_history">Suiteáil stair</string>
@@ -262,8 +262,8 @@
         <item quantity="other">%1$d nuashonruithe ar fáil</item>
     </plurals>
     <string name="crash_dialog_title_old">Bhí F-Droid tar éis tuairteáil</string>
-    <string name="app_name_full_nightly">F-Oíche</string>
-    <string name="app_name_basic_nightly">Bunúsach F-Oíche</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="menu_about">Maidir</string>
     <string name="menu_discover">Faigh amach</string>
     <string name="menu_apps_my">Mo aipeanna</string>

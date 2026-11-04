@@ -52,7 +52,7 @@
     <string name="theme_dark">Темная</string>
     <string name="pref_language">Язык</string>
     <string name="wifi">Wi-Fi</string>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="banner_updating_repositories">Обновление репозиториев</string>
     <string name="repo_details">Репозиторий</string>
     <string name="menu_settings">Настройки</string>
@@ -172,7 +172,7 @@
     <string name="has_disallow_install_unknown_sources">Неизвестные источники не могут быть добавлены этим пользователем, и это правило распространяется на новые репозитории</string>
     <string name="has_disallow_install_unknown_sources_globally">Администратор вашего устройства не разрешает установку приложений из неизвестных источников, и это правило распространяется на новые репозитории</string>
     <string name="menu_release_channel_beta">Разрешить бета-версии</string>
-    <string name="app_name_basic">F-Droid Basic</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="about_title_basic">О F-Droid Basic</string>
     <string name="repo_add_new_title">Добавить репозиторий</string>
     <string name="repo_exists">Этот репозиторий уже был добавлен.</string>
@@ -250,8 +250,8 @@
         <item quantity="other">Доступно %1$d обновлений</item>
     </plurals>
     <string name="crash_dialog_title_old">Сбой F-Droid</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
-    <string name="app_name_basic_nightly">F-Nightly Basic</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="call_to_action_keepandroidopen">F-Droid в опасности. Google меняет способ установки приложений на вашем устройстве. Нам нужна ваша помощь.</string>
     <string name="call_to_action_keepandroidopen_url">https://keepandroidopen.org/ru/</string>
     <string name="menu_about">О программе</string>

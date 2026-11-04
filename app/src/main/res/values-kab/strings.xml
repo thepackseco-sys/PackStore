@@ -55,7 +55,7 @@
     <string name="swap_choose_apps">Fren isnasen</string>
     <string name="swap_wifi_device_name">Isem n yibenk</string>
     <string name="swap_confirm">Sentem ambaddal</string>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="menu_uninstall">Kkes</string>
     <string name="swap_welcome">Ansuf ɣer F-Droid!</string>
     <string name="not_on_same_wifi">Ibenk-ik ur yelli ara ɣef yiwen nni n Wi-Fi am ukufi adigan i terniḍ yakan! Ɛreḍ ad tedduḍ ar uẓeṭṭa-agi: %s</string>
@@ -133,7 +133,7 @@
     <string name="swap_cant_find_peers">Ur d-tufiḍ ara win.tin i ɣef tettnadiḍ\?</string>
     <string name="swap_visible_bluetooth">Yettban s Bluetooth</string>
     <string name="scan_removable_storage_toast">Asiggez %s…</string>
-    <string name="app_name_basic">F-Droid Basic</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="about_title_basic">Ɣef F-Droid Basic</string>
     <string name="theme_follow_system">Akken yella unagraw</string>
     <string name="menu_share_apk">Bḍu afaylu APK</string>

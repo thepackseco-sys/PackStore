@@ -63,7 +63,7 @@
     <string name="swap_success">Uitwisseling succesvol!</string>
     <string name="swap_active_hotspot">%1$s (uw hotspot)</string>
     <string name="swap_switch_to_wifi">Tik om over te schakelen naar een wifi netwerk</string>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="about_source">Broncode</string>
     <string name="swap_scan_or_type_url">Eén persoon moet de code scannen, of type de URL van de ander in een browser.</string>
     <string name="swap_choose_apps">Kies apps</string>
@@ -174,7 +174,7 @@
     <string name="has_disallow_install_unknown_sources">Onbekende bronnen kunnen niet worden toegevoegd door deze gebruiker, waaronder nieuwe gegevensbanken</string>
     <string name="has_disallow_install_unknown_sources_globally">Uw apparaatbeheerder staat het installeren van apps uit onbekende bronnen, waaronder nieuwe repo\'s, niet toe</string>
     <string name="menu_release_channel_beta">Beta updates toestaan</string>
-    <string name="app_name_basic">F-Droid Basis</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="about_title_basic">About F-Droid Basis</string>
     <string name="copied_to_clipboard">Gekopieerd naar klembord</string>
     <string name="turn_on_wifi">WiFi inschakelen</string>
@@ -248,8 +248,8 @@
     <string name="no_handler_app_generic">Er is geen app beschikbaar die dit kan afhandelen.</string>
     <string name="pref_export_log_summary">Maakt een bestand met logcat uitvoer, handig voor debuggen. Voorzichtig, het kan gevoelige informatie bevatten!</string>
     <string name="app_details_more_apps_by_author">Meer apps van %1$s</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
-    <string name="app_name_basic_nightly">F-Nightly Basis</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="menu_about">Over</string>
     <string name="menu_discover">Ontdek</string>
     <string name="menu_apps_my">Mijn apps</string>

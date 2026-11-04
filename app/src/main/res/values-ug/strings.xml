@@ -27,7 +27,7 @@
     <string name="menu_upgrade">يېڭىلاش</string>
     <string name="display">كۆرۈنۈش</string>
     <string name="theme">ئۇسلۇب</string>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="back">قايتىش</string>
     <string name="menu_settings">تەڭشەكلەر</string>
     <string name="main_menu__categories">تۈرلەر</string>
@@ -70,7 +70,7 @@
     <string name="repo_confirm_delete_title">ئامبارنى ئۆچۈرەمسىز؟</string>
     <string name="wifi_ap">قىزىقنۇقتا</string>
     <string name="notification_title_summary_installing">ئورنىتىۋاتىدۇ</string>
-    <string name="app_name_basic">F-Droid ئاساسى نەشرى</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="install_history">ئورنىتىش تارىخى</string>
     <string name="pref_export_log_title">سازلاش خاتىرىسى</string>
     <string name="pref_export_log_summary">سازلاشقا پايدىلىق بولغان logcat چىقىرىش ھۆججىتى قۇرىدۇ. ئېھتىيات قىلىڭ، ئۇ سەزگۈر ئۇچۇرلارنى ئۆز ئىچىگە ئېلىشى مۇمكىن!</string>

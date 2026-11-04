@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name_full">এফ-ড্রয়েড</string>
+    <string name="app_name_full">PackStore</string>
     <string name="menu_search">খুঁজুন</string>
     <string name="menu_settings">সেটিংস</string>
     <string name="cancel">বাতিল</string>
@@ -175,7 +175,7 @@
     <string name="has_disallow_install_unknown_sources_globally">আপনার ডিভাইস প্রশাসক অজানা উৎস থেকে অ্যাপ ইনস্টল করার অনুমতি দেন না, তাই নতুন রিপোজিটরিও যোগ করা যাবে না</string>
     <string name="swap_wifi_vpn_conflict">সক্রিয় ভিপিএনের সাথে সমস্যা হচ্ছে!</string>
     <string name="menu_release_channel_beta">বেটা আপডেট চালু করুন</string>
-    <string name="app_name_basic">এফ-ড্রয়েড মৌলিক</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="about_title_basic">এফ-ড্রয়েড বেসিক সম্পর্কে</string>
     <string name="copied_to_clipboard">ক্লিপবোর্ডে অনুলিপন করা হয়েছে</string>
     <string name="turn_on_wifi">ওয়াইফাই চালু করুন</string>
@@ -230,8 +230,8 @@
     <string name="collapse">সংকুচিত করুন</string>
     <string name="ipfsgw_caption_official_gateways">অফিসিয়াল IPFS গেটওয়েসমূহ</string>
     <string name="ipfsgw_caption_custom_gateways">কাস্টম IPFS গেটওয়েসমূহ</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
-    <string name="app_name_basic_nightly">F-Nightly Basic</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="menu_about">সম্পর্কে</string>
     <string name="menu_discover">আবিষ্কার করুন</string>
     <string name="menu_apps_my">আমার অ্যাপসমূহ</string>

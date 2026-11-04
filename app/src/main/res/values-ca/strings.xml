@@ -47,7 +47,7 @@
     <string name="open_qr_code_scanner">Obre escàner de QR</string>
     <string name="swap_welcome">Us donem la benvinguda a F-Droid!</string>
     <string name="swap_confirm_connect">Voleu baixar aplicacions des de %1$s ara?</string>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="about_source">Codi font</string>
     <string name="app_incompatible">No compatible</string>
     <string name="links">Enllaços</string>
@@ -175,7 +175,7 @@
     <string name="has_disallow_install_unknown_sources_globally">L\'administració del dispositiu no permet instal·lar aplicacions de fonts desconegudes, això inclou nous dipòsits</string>
     <string name="swap_wifi_vpn_conflict">Entra en conflicte amb la VPN activa!</string>
     <string name="menu_release_channel_beta">Permetre actualitzar a versions beta</string>
-    <string name="app_name_basic">F-Droid Bàsic</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="about_title_basic">Sobre l\'F-Droid Bàsic</string>
     <string name="app_details_repository">Dipòsit</string>
     <string name="app_details_repository_expand">Amplia la llista de dipòsits</string>
@@ -250,8 +250,8 @@
         <item quantity="many">%1$d actualitzacions disponibles</item>
         <item quantity="other">%1$d actualitzacions disponibles</item>
     </plurals>
-    <string name="app_name_full_nightly">F-Nightly</string>
-    <string name="app_name_basic_nightly">F-Nightly Basic</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="menu_about">Quant a</string>
     <string name="menu_discover">Descobrir</string>
     <string name="menu_apps_my">Les meves aplicacions</string>

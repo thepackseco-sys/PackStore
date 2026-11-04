@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="ok">確定</string>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="updates">更新</string>
     <string name="installIncompatible">個 app 同您部機唔兼容，係咪都照安裝？</string>
     <string name="version">版本</string>
@@ -176,7 +176,7 @@
     <string name="theme_light">白頭浪</string>
     <string name="theme_dark">黑眼睛</string>
     <string name="menu_release_channel_beta">准用測試版更新</string>
-    <string name="app_name_basic">F-Droid 新基本</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="about_title_basic">關於 F-Droid 新基本</string>
     <string name="turn_on_wifi">開啟 Wi-Fi</string>
     <string name="repo_state_adding">加入緊存庫…</string>
@@ -227,8 +227,8 @@
     <string name="repo_preview_included_apps">有啲咩 app：</string>
     <string name="repo_mirror_exists">呢個鏡像已經加入 (%s)。</string>
     <string name="repo_mirror_add_info">您話要加入嘅 URL (%s) 係現有存庫嘅鏡像。</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
-    <string name="app_name_basic_nightly">F-Nightly Basic</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="menu_about">關於</string>
     <string name="first_start_offline">冇網路。唔該連接網路後先開始。</string>
     <string name="first_start_metered">你而家用緊行動數據，將會下載多過 10MB 嘅資料。如果仲想開始，撳取得存庫繼續。</string>

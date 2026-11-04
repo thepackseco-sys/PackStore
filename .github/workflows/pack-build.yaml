@@ -1,0 +1,30 @@
+name: PackStore unsigned validation
+'on':
+  workflow_dispatch: null
+permissions:
+  contents: read
+concurrency:
+  group: pack-validation
+  cancel-in-progress: false
+jobs:
+  build:
+    if: github.event.repository.private == false
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    steps:
+    - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+      with:
+        persist-credentials: false
+    - uses: actions/setup-java@b843ebf9b913146b38da2eaa7aeddf76074ae1ad
+      with:
+        distribution: temurin
+        java-version: '21'
+    - name: Build full-feature release
+      run: ./gradlew --no-daemon assembleFullDefaultRelease
+    - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+      with:
+        name: PackStore-unsigned
+        path: app/build/outputs/apk/**/*.apk
+        if-no-files-found: error
+        retention-days: 1
+      if: ${{ false }}

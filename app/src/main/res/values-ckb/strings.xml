@@ -20,7 +20,7 @@
     <string name="main_menu__categories">بەشەکان</string>
     <string name="next">دواتر</string>
     <string name="pref_language">زمان</string>
-    <string name="app_name_basic">ئێف-درۆیدی بنچینە</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="SignatureMismatch">وەشانە نوێکە بە کلیلێکی جیاواز لە وەشانە کۆنەکە واژوو کراوە. بۆ دامەزراندنی وەشانی نوێ، پێویستە سەرەتا کۆنەکە بسڕدرێتەوە. تکایە وا بکە و دووبارە ھەوڵبدەرەوە. (سڕینەوەی وەشانە کۆنەکە ھەموو ئەو زانیارییە ناوەکیانە دەسڕێتەوە کە لە نەرمەواڵەکە ھەڵگیرابوون)</string>
     <string name="installIncompatible">نەرمەواڵەکە لەگەڵ ئامێرەکەتدا ناگونجێت، ھەر دایدەمەزرێنیت؟</string>
     <string name="version">وەشان</string>
@@ -34,7 +34,7 @@
     <string name="notification_title_summary_install_error">دامەزراندنەکە شکستی ھێنا</string>
     <string name="not_on_same_wifi">ئامێرەکەت لەسەر ھەمان وایفایی سەرچاوە ناوەکییەکە نییە کە زیاد کردووە! ھەوڵبدە بچیتە سەر ئەم تۆڕە: %s</string>
     <string name="crash_dialog_title">ئێف-درۆید تێکشکا</string>
-    <string name="app_name_full">ئێف-درۆید</string>
+    <string name="app_name_full">PackStore</string>
     <string name="swap_qr_isnt_for_swap">ئەو QR کۆدەی کە سکانت کردووە لە کۆدی سواپ ناچێت.</string>
     <string name="theme_light">ڕووناک</string>
     <string name="theme_follow_system">پەیڕەوی لە سیستەم</string>

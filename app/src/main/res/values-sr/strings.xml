@@ -173,10 +173,10 @@
     <string name="has_disallow_install_unknown_sources">Овај корисник не може да додаје непознате изворе, што обухвата и нове репозиторијуме</string>
     <string name="swap_wifi_vpn_conflict">Дошло је до сукоба са активним VPN-ом</string>
     <string name="menu_release_channel_beta">Дозволи ажурирања на бета верзије</string>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="about_title_full">О F-Droid-у</string>
     <string name="about_title_basic">О F-Droid Basic-у</string>
-    <string name="app_name_basic">F-Droid Basic</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="swap_banner_message">Да бисте заменили апликације, укључите Wi-Fi и повежите се на исту мрежу као и ваш пријатељ.</string>
     <string name="turn_on_wifi">Укључи Wi-Fi</string>
     <string name="repo_add_new_title">Додај репозиторијум</string>
@@ -246,8 +246,8 @@
     <string name="menu_discover">Откриј</string>
     <string name="menu_apps_my">Моји програми</string>
     <string name="first_start_loading">Захватам складишта програма</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
-    <string name="app_name_basic_nightly">F-Nightly Basic</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="my_apps_empty">Искључиво апликације доступне у репозиторијуму %1$s су приказане овде</string>
     <string name="my_apps_header_apps_with_issue">Апликације са проблемима</string>
     <string name="my_apps_ignore_dialog_title">Сакриј проблеме</string>

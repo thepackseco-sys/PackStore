@@ -35,7 +35,7 @@
     <string name="repo_confirm_delete_body">删除存储库意味着来自该存储库的应用将不再可用。 \n \n注意：之前安装的全部应用会保留在你的设备上。</string>
     <string name="not_on_same_wifi">你的设备与刚添加的本地存储库不在同一个 Wi-Fi 网络！请加入此网络：%s</string>
     <string name="swap_welcome">欢迎使用 F-Droid！</string>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="about_source">源代码</string>
     <string name="app_incompatible">不兼容</string>
     <string name="app_inst_known_source">已安装（来自 %s）</string>
@@ -172,7 +172,7 @@
     <string name="has_disallow_install_unknown_sources_globally">你的设备管理员不允许安装来自未知来源的应用，其中包括新的存储库</string>
     <string name="swap_wifi_vpn_conflict">与正在使用的 VPN 冲突！</string>
     <string name="menu_release_channel_beta">允许测试版更新</string>
-    <string name="app_name_basic">F-Droid 基础版</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="about_title_basic">关于 F-Droid 基础版</string>
     <string name="repo_state_fetching">正在获取仓库…</string>
     <string name="repo_state_adding">正在添加仓库…</string>
@@ -249,8 +249,8 @@
         <item quantity="other">有 %1$d 个更新可用</item>
     </plurals>
     <string name="crash_dialog_title_old">F-Droid 崩溃了</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
-    <string name="app_name_basic_nightly">F-Nightly 基础版</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="call_to_action_keepandroidopen">F-Droid 正面临威胁。Google 正在改变您在您的设备上安装应用的方式。我们需要您的帮助。</string>
     <string name="call_to_action_keepandroidopen_url">https://keepandroidopen.org</string>
     <string name="menu_about">关于</string>

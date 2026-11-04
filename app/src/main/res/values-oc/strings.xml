@@ -6,7 +6,7 @@
     <string name="yes">Òc</string>
     <string name="ok">Validar</string>
     <string name="updates">Actualizacions</string>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="menu_settings">Paramètres</string>
     <string name="menu_search">Cercar</string>
     <string name="pref_language">Lenguatge</string>
@@ -28,9 +28,9 @@
     <string name="crash_dialog_title">F-Droid s\'es plantat</string>
     <string name="notification_title_single_update_available">Actualizada disponibla</string>
     <string name="notification_title_summary_install_error">L\'installacion a mal escasut</string>
-    <string name="app_name_basic">Aqueste es lo nom de l\'aplicacion de la version de basa del client F-Droid.</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
-    <string name="app_name_basic_nightly">F-Nightly basic</string>
+    <string name="app_name_basic">PackStore</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="menu_about">A prepaus</string>
     <string name="menu_discover">Descobrir</string>
     <string name="menu_apps_my">Las meas aplicacions</string>

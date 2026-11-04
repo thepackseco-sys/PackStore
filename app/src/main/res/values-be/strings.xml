@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="SignatureMismatch">Новая версія падпісаная ключом, адрозным ад старой. Для ўсталявання новай версіі патрабуецца спачатку выдаліць старую. Зрабіце гэта і паспрабуйце зноў. (Майце на ўвазе, што выдаленне праграмы прывядзе да знішчэння ўсіх яе даных)</string>
     <string name="installIncompatible">Праграма несумяшчальная з вашай прыладай. Усё адно ўсталяваць\?</string>
     <string name="version">Версія</string>
@@ -175,7 +175,7 @@
     <string name="has_disallow_install_unknown_sources_globally">Адміністратар вашай прылады не дазваляе ўсталёўваць прыкладанні з незнаёмых крыніц, якія ўтрымліваюць новыя рэпазіторыі</string>
     <string name="menu_release_channel_beta">Дазваляць beta абнаўленні</string>
     <string name="has_disallow_install_unknown_sources">Незнаёмыя крыніцы не могуць быць дабаўленыя гэтым карыстальнікам, якія утрымліваюць новыя рэпазіторыі</string>
-    <string name="app_name_basic">F-Droid Basic</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="about_title_basic">Пра F-Droid Basic</string>
     <string name="turn_on_wifi">Уключыць Wi-Fi</string>
     <string name="repo_state_adding">Дадаецца рэпазіторый…</string>
@@ -235,8 +235,8 @@
     <string name="menu_share_apk">Абагуліць файл APK</string>
     <string name="repo_last_update_check">Апошняя праверка абнаўлення рэпазіторыя: %s</string>
     <string name="no_handler_app_generic">Вы не маеце праграм для апрацоўкі гэтага.</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
-    <string name="app_name_basic_nightly">F-Nightly Basic</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="menu_about">Аб праграме</string>
     <string name="menu_apps_my">Мае праграмы</string>
     <string name="first_start_loading">Атрыманне рэпазіторыяў праграм…</string>

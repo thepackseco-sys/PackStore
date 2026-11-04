@@ -26,7 +26,7 @@
     <string name="no">Nee</string>
     <string name="yes">Jo</string>
     <string name="ok">OK</string>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="updates">Aktualiséierungen</string>
     <string name="update_auto_install">Aktualiséierungen automatesch installéieren</string>
 </resources>

@@ -50,7 +50,7 @@
     <string name="open_qr_code_scanner">Apri lo scanner di codici QR</string>
     <string name="swap_welcome">Benvenuto su F-Droid!</string>
     <string name="swap_confirm_connect">Vuoi ricevere le app da %1$s?</string>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="app_incompatible">Non compatibile</string>
     <string name="app_inst_known_source">Installato (da %s)</string>
     <string name="app_inst_unknown_source">Installato (da fonte sconosciuta)</string>
@@ -183,7 +183,7 @@
     <string name="has_disallow_install_unknown_sources">Fonti sconosciute non possono essere aggiunte da questo utente, inclusi nuovi repository</string>
     <string name="has_disallow_install_unknown_sources_globally">L\'amministratore del tuo dispositivo non permette l\'installazione di app da fonti sconosciute, inclusi nuovi repository</string>
     <string name="menu_release_channel_beta">Permetti aggiornamenti Beta</string>
-    <string name="app_name_basic">F-Droid Basic</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="about_title_basic">Informazioni su F-Droid Basic</string>
     <string name="swap_banner_message">Per scambiare le app, accendi il Wi-Fi e connettiti alla stessa rete del tuo amico.</string>
     <string name="turn_on_wifi">Accendi il wifi</string>
@@ -260,8 +260,8 @@
     </plurals>
     <string name="pref_export_log_title">Registrazione debug</string>
     <string name="crash_dialog_title_old">F-Droid si è arrestato in maniera anomala</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
-    <string name="app_name_basic_nightly">F-Nightly Basic</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="menu_discover">Scopri</string>
     <string name="menu_apps_my">Le mie app</string>
     <string name="first_start_loading">Recupero dei repository delle app in corso…</string>

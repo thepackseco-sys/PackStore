@@ -50,7 +50,7 @@
     <string name="malformed_repo_uri">Ignoruji poškozené URI repozitáře: %s</string>
     <string name="menu_changelog">Seznam změn</string>
     <string name="display">Zobrazení</string>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="more">Více</string>
     <string name="menu_overflow_description">Další možnosti</string>
     <string name="less">Méně</string>
@@ -176,7 +176,7 @@
     <string name="has_disallow_install_unknown_sources_globally">Správce vašeho zařízení nepovoluje instalaci aplikací z neznámých zdrojů, což zahrnuje i nové repozitáře</string>
     <string name="menu_release_channel_beta">Povolit beta aktualizace</string>
     <string name="about_title_basic">O aplikaci F-Droid Basic</string>
-    <string name="app_name_basic">F-Droid Basic</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="swap_banner_message">Pro výměnu aplikací zapněte svou Wi-Fi a připojte se ke stejné síti, jako váš přítel.</string>
     <string name="turn_on_wifi">Zapnout Wi-Fi</string>
     <string name="repo_add_new_title">Přidat repozitář</string>
@@ -253,8 +253,8 @@
         <item quantity="other">Je k dispozici %1$d aktualizací</item>
     </plurals>
     <string name="crash_dialog_title_old">F-Droid havaroval</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
-    <string name="app_name_basic_nightly">F-Nightly Basic</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="menu_about">O aplikaci</string>
     <string name="menu_discover">Objevit</string>
     <string name="menu_apps_my">Moje aplikace</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name_full">ایف-ڈیرائڈ</string>
+    <string name="app_name_full">PackStore</string>
     <string name="SignatureMismatch">نیا ورژن پرانے ورژن کیی کے ساتھ دستخط کیا گیا ہے۔ نیا ورژن نصب کرنے کے لیے، پرانے ورژن کی نا تنصیب کرنا ضروری ہے۔ برائے مہربانی یہ کریں اور دوبارہ کوشش کریں۔ (نوٹ کریں کی، ناتنصیب کرنے سے کسی بھی قسم کا اندرونی ڈیٹا جو اطلاقیہ نے محفوظ کیا ہو، مٹا دیا جائے گا)</string>
     <string name="installIncompatible">ایپ آپ کے آلے سے مطابقت نہیں رکھتی ، پھر بھی انسٹال کریں؟</string>
     <string name="version">ورژن</string>

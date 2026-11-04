@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name_full">ఎఫ్-డ్రాయిడ్</string>
+    <string name="app_name_full">PackStore</string>
     <string name="updates">నవీకరణలు</string>
     <string name="ok">సరే</string>
     <string name="yes">అవును</string>

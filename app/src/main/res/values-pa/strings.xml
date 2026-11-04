@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name_full">ਐਫ-ਡਰਾਇਡ</string>
+    <string name="app_name_full">PackStore</string>
     <string name="SignatureMismatch">ਨਵੇਂ ਸੰਸਕਰਣ ਵਿੱਚ ਪੁਰਾਣੇ ਨਾਲ਼ੋਂ ਇੱਕ ਵੱਖਰੀ ਕੁੰਜੀ ਦੇ ਨਾਲ ਦਸਤਖਤ ਕੀਤੇ ਗਏ ਹਨ. ਨਵਾਂ ਸੰਸਕਰਣ ਇੰਸਟਾਲ ਕਰਨ ਲਈ, ਪੁਰਾਣੇ ਨੂੰ ਪਹਿਲਾਂ ਅਨ-ਇੰਸਟਾਲ ਕਰਨਾ ਪਵੇਗਾ। ਕ੍ਰਿਪਾ ਕਰਕੇ ਇਹ ਕਰੋ ਅਤੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ। (ਯਾਦ ਰੱਖੋ ਕਿ ਅਨ-ਇੰਸਟਾਲ ਕਰਨ ਨਾਲ ਐਪ ਦੁਆਰਾ ਸਟੋਰ ਕੀਤਾ ਕੋਈ ਵੀ ਅੰਦਰੂਨੀ ਡਾਟਾ ਮਿਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ)</string>
     <string name="installIncompatible">ਐਪ ਤੁਹਾਡੀ ਡਿਵਾਈਸ ਨਾਲ ਅਨੁਕੂਲ ਨਹੀਂ ਹੈ, ਫਿਰ ਵੀ ਇੰਸਟਾਲ ਕਰੋ\?</string>
     <string name="version">ਸੰਸਕਰਣ</string>
@@ -176,7 +176,7 @@
     <string name="notification_channel_updates_description">ਐਪ ਅਤੇ ਰਿਪੋਜ਼ਟਰੀ ਅੱਪਡੇਟ ਸੂਚਨਾਵਾਂ ਵਿਖਾਉਂਦਾ ਹੈ।</string>
     <string name="theme_light">ਹਲਕਾ</string>
     <string name="theme_dark">ਗੂੜ੍ਹਾ</string>
-    <string name="app_name_basic">ਐਫ-ਡਰਾਇਡ ਬੇਸਿਕ</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="about_title_basic">ਐਫ-ਡਰਾਇਡ ਬੇਸਿਕ ਬਾਰੇ</string>
     <string name="pref_export_log_summary">ਜਾਂਚ ਵਿੱਚ ਮਦਦ ਲਈ logcat ਆਊਟਪੁੱਟ ਨਾਲ ਇਕ ਫਾਇਲ ਬਣਾਈ ਜਾਵੇਗੀ। ਸਾਵਧਾਨ, ਇਸ ਵਿੱਚ ਸੰਵੇਦਨਸ਼ੀਲ ਜਾਣਕਾਰੀ ਹੋ ਸਕਦੀ ਹੈ!</string>
     <string name="export_log_success">ਲੋਗਕੈਟ ਸਫਲਤਾਪੂਰਵਕ ਸੁਰੱਖਿਅਤ</string>
@@ -186,7 +186,7 @@
     <string name="app_details_repositories">ਰਿਪੋਜ਼ਟਰੀਆਂ</string>
     <string name="app_details_repository_preferred">(ਤਰਜੀਹੀ)</string>
     <string name="app_details_repository_expand">repository list ਨੂੰ ਫੈਲਾਓ</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
+    <string name="app_name_full_nightly">PackStore</string>
     <string name="menu_about">ਬਾਰੇ</string>
     <string name="menu_discover">ਖੋਜੋ</string>
     <string name="menu_apps_my">ਮੇਰੀਆਂ ਐਪਾਂ</string>

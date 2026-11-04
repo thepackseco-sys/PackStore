@@ -23,7 +23,7 @@
     <string name="back">Orqaga</string>
     <string name="cancel">Bekor qiliş</string>
     <string name="delete">Öçiriş</string>
-    <string name="app_name_full">F‑Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="install_history">Örnatiş tarixi</string>
     <string name="update_auto_install">Yangilanişlarni avtomatik örnatiş</string>
     <string name="installed_version">Örnatilgan versiya:</string>
@@ -32,9 +32,9 @@
     <string name="menu_about">Dastur haqida</string>
     <string name="menu_apps_my">Mening ilovalarim</string>
     <string name="my_apps_ignore_dialog_title">Xatolikni yaxşiriş</string>
-    <string name="app_name_basic">F-Droid Basic</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
-    <string name="app_name_basic_nightly">F-Nightly Basic</string>
+    <string name="app_name_basic">PackStore</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="menu_discover">Kaşf etiş</string>
     <string name="my_apps_header_apps_with_issue">Xatoliklari bor ilovalar</string>
     <string name="app_list_new">Yangi ilovalar</string>

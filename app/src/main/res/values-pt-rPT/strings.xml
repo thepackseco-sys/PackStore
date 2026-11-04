@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="SignatureMismatch">A nova versão está assinada com uma chave diferente da antiga. Para instalar a nova versão, tem que desinstalar a antiga. Remova a app e tente novamente. (Tenha em atenção que irá eliminar todos os dados guardados pela app)</string>
     <string name="installIncompatible">A aplicação não é compatível com o seu aparelho. Deseja instalação instalar mesmo assim?</string>
     <string name="version">Versão</string>
@@ -175,7 +175,7 @@
     <string name="has_disallow_install_unknown_sources">Não podem ser adicionadas fontes desconhecidas por este utilizador, o que inclui novos repositórios</string>
     <string name="has_disallow_install_unknown_sources_globally">O administrador do seu dispositivo não permite a instalação de aplicações de fontes desconhecidas que incluem novos repositórios</string>
     <string name="menu_release_channel_beta">Permitir atualizações beta</string>
-    <string name="app_name_basic">F-Droid Básico</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="about_title_basic">Sobre o F-Droid Básico</string>
     <string name="repo_add_new_title">Adicionar repositório</string>
     <string name="copied_to_clipboard">Copiado para área de transferência</string>
@@ -251,8 +251,8 @@
         <item quantity="other">%1$d atualizações disponíveis</item>
     </plurals>
     <string name="crash_dialog_title_old">F-Droid travou</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
-    <string name="app_name_basic_nightly">F-Nightly Básico</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="menu_about">Sobre</string>
     <string name="menu_discover">Descobrir</string>
     <string name="menu_apps_my">As minhas apps</string>

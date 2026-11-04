@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name_full">ಎಫ್-ಡ್ರಾಯ್ಡ್</string>
+    <string name="app_name_full">PackStore</string>
     <string name="version">ಆವೃತ್ತಿ</string>
     <string name="notification_title_summary_install_error">ಸ್ಥಾಪನೆ ವಿಫಲವಾಗಿದೆ</string>
     <string name="notification_title_summary_installing">ಸ್ಥಾಪಿಸಲಾಗುತ್ತಿದೆ</string>
@@ -175,7 +175,7 @@
     <string name="has_disallow_install_unknown_sources">ಹೊಸ ರೆಪೋಗಳನ್ನು ಒಳಗೊಂಡಿರುವ ಈ ಬಳಕೆದಾರನಿಂದ ಅಜ್ಞಾತ ಮೂಲಗಳನ್ನು ಸೇರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ</string>
     <string name="has_disallow_install_unknown_sources_globally">ಹೊಸ ರೆಪೊಗಳನ್ನು ಒಳಗೊಂಡಿರುವ ಅಜ್ಞಾತ ಮೂಲಗಳಿಂದ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಸ್ಥಾಪಿಸಲು ನಿಮ್ಮ ಸಾಧನ ನಿರ್ವಾಹಕರು ಅನುಮತಿಸುವುದಿಲ್ಲ</string>
     <string name="swap_wifi_vpn_conflict">ಸಕ್ರಿಯ ವಿ.ಪಿ.ಎನ್ ಜೊತೆಗೆ ಸಂಘರ್ಷಿಸುತ್ತದೆ!</string>
-    <string name="app_name_basic">ಎಫ್-ಡ್ರಾಯ್ಡ್ ಬೇಸಿಕ್</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="ipfsgw_caption_custom_gateways">ಕಸ್ಟಮೈಜ್ ಐ ಪಿ ಎಫ್ ಎಸ್ ಗೇಟ್ವೇಸ್</string>
     <string name="swap_connection_indexv0_error">ನೀವು ಹಳೆಯ ಆವೃತ್ತಿಯ F-Droid ಅನ್ನು ಹೊಂದಿರುವ ಯಾರಾದರು ಸಂಪರ್ಕ ಸ್ಥಾಪಿಸಲು ಪ್ರಯತ್ನಿಸುತ್ತಿದ್ದೀರಿ. ಅವರು ತಮ್ಮ F-Droid ಅಪ್ಲಿಕೇಶನ್‌ನನ್ನು ನವೀಕರಿಸಬೇಕಾಗಿರುತ್ತದೆ. ಅವರು ನಿಮ್ಮಿಂದ F-Droid ಅಪ್ಲಿಕೇಶನ್‌ನನ್ನು ನವೀಕರಿಸಲು ಸ್ವಾಪ್ ಬಳಸಬಹುದು.</string>
     <string name="ipfsgw_explainer">ಡೌನ್ಲೋಡ್ ಆ್ಯಪ್ಸ್ ಫ್ರಮ್ ಐ ಪಿ ಎಫ್ ಎಸ್ ವೆಬ್ ಎಂಡ್ಪಾಯಿಂಟ್ಸ್. ( ಓನ್ಲಿ ವರ್ಕ್ಸ್ ಫಾರ್ ಎಫ್-ಡ್ರಾಯ್ಡ್ ರಿಪೋಸಿಟರೀಸ್ ವಿತ್ ಐ ಪಿ ಎಫ್ ಎಸ್ ಸಪೋರ್ಟ್.)</string>

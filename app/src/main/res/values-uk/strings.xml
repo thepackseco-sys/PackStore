@@ -18,7 +18,7 @@
     <string name="menu_website">Вебсайт</string>
     <string name="menu_issues">Проблеми</string>
     <string name="menu_source">Початковий код</string>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="installIncompatible">Застосунок несумісний з вашим пристроєм, усе одно встановити\?</string>
     <string name="delete">Видалити</string>
     <string name="theme_dark">Темна</string>
@@ -175,7 +175,7 @@
     <string name="has_disallow_install_unknown_sources_globally">Адміністратор пристрою не дозволяє встановлювати застосунки з невідомих джерел, що містять нові репозиторії</string>
     <string name="swap_wifi_vpn_conflict">Конфлікти з активною VPN!</string>
     <string name="menu_release_channel_beta">Дозволити оновлення бета-версій</string>
-    <string name="app_name_basic">F-Droid Basic</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="about_title_basic">Про F-Droid Basic</string>
     <string name="repo_add_new_title">Додати репозиторій</string>
     <string name="repo_state_fetching">Отримання репозиторію…</string>
@@ -253,8 +253,8 @@
         <item quantity="other">Доступні %1$d оновлень</item>
     </plurals>
     <string name="crash_dialog_title_old">Збій F-Droid</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
-    <string name="app_name_basic_nightly">F-Nightly Basic</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="call_to_action_keepandroidopen">F-Droid під загрозою. Google змінює спосіб встановлення застосунків на вашому пристрої. Нам потрібна ваша допомога.</string>
     <string name="call_to_action_keepandroidopen_url">https://keepandroidopen.org/uk/</string>
     <string name="menu_about">Про застосунок</string>

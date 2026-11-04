@@ -16,7 +16,7 @@ android {
   compileSdk = libs.versions.compileSdk.get().toInt()
 
   defaultConfig {
-    applicationId = "org.fdroid"
+    applicationId = "com.packseco.packstore"
     minSdk = 24
     targetSdk = 37
     versionCode = 2000053
@@ -56,7 +56,6 @@ android {
     }
     create("full") {
       dimension = "variant"
-      applicationIdSuffix = ".fdroid"
     }
     create("default") { dimension = "release" }
     create("nightly") {

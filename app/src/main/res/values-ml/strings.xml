@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name_full">എഫ്-ഡ്രോയ്ഡ്</string>
+    <string name="app_name_full">PackStore</string>
     <string name="updates">പുതുക്കലുകള്‍</string>
     <string name="ok">ശരി</string>
     <string name="yes">അതെ</string>
@@ -176,7 +176,7 @@
     <string name="swap_wifi_vpn_conflict">സജീവ വിപിഎനുമായി പൊരുത്തപ്പെടുന്നില്ല!</string>
     <string name="has_disallow_install_unknown_sources">ഈ ഉപയോക്താവിന് അജ്ഞാത ഉറവിടങ്ങൾ ചേർക്കാനാകില്ല, അതിൽ പുതിയ സംഭരണികൾ ഉൾപ്പെടുന്നു</string>
     <string name="has_disallow_install_unknown_sources_globally">അജ്ഞാത ഉറവിടങ്ങളിൽ നിന്നുള്ള ആപ്പുകൾ ഇൻസ്റ്റാൾ ചെയ്യാൻ നിങ്ങളുടെ ഉപകരണ അഡ്‌മിൻ അനുവദിക്കുന്നില്ല, അതിൽ പുതിയ സംഭരണികൾ  ഉൾപ്പെടുന്നു</string>
-    <string name="app_name_basic">എഫ്-ഡ്രോയ്ഡ് ലളിതം</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="about_title_basic">F-Droid ബേസിക്കിനെക്കുറിച്ച്</string>
     <string name="nearby_splace__external_storage_permission_button">പരീക്ഷിച്ചു നോക്കൂ</string>
     <string name="repo_exists">ഈ റിപ്പോ ഇതിനകം ചേർത്തിട്ടുണ്ട്.</string>

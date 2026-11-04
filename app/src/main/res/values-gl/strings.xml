@@ -26,7 +26,7 @@
     <string name="menu_upgrade">Actualizar</string>
     <string name="display">Amosar</string>
     <string name="theme">Aparencia</string>
-    <string name="app_name_full">F-Droid</string>
+    <string name="app_name_full">PackStore</string>
     <string name="delete">Eliminar</string>
     <string name="about_source">Código fonte</string>
     <string name="app_incompatible">Incompatíbel</string>
@@ -177,7 +177,7 @@
     <string name="theme_follow_system">Usar a do sistema</string>
     <string name="swap_wifi_vpn_conflict">Conflitos coa VPN activa!</string>
     <string name="menu_release_channel_beta">Permitir Actualizacións Beta</string>
-    <string name="app_name_basic">F-Droid básico</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="about_title_basic">Acerca do F-Droid Básico</string>
     <string name="useDnsCache">Empregar caché DNS</string>
     <string name="useDnsCacheSummary">Empregar resultados da caché para minimizar as consultas DNS.</string>
@@ -224,8 +224,8 @@
     <string name="ipfsgw_add_title">Engadir unha porta de enlace IPFS</string>
     <string name="ipfsgw_add_add">Engadir</string>
     <string name="ipfsgw_caption_official_gateways">Portas IPFS oficiais</string>
-    <string name="app_name_full_nightly">F-Nightly</string>
-    <string name="app_name_basic_nightly">F-Nightly Basic</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="menu_about">Acerca de</string>
     <string name="menu_discover">Descubrir</string>
     <string name="menu_apps_my">As miñas aplicacións</string>

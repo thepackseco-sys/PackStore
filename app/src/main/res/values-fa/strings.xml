@@ -19,7 +19,7 @@
     <string name="menu_source">کد مبدأ</string>
     <string name="display">نمایش</string>
     <string name="theme">زمینه</string>
-    <string name="app_name_full">اف‌دروید</string>
+    <string name="app_name_full">PackStore</string>
     <string name="SignatureMismatch">نگارش جدید با کلیدی متفاوت با قبلی امضا شده است. برای نصب نگارش جدید، باید نخست نگارش قدیمی را حذف کرد. لطفاً این کار را انجام داده و دوباره تلاش کنید. (به خاطر داشته باشید که حذف نصب، تمام داده‌های ذخیره شدهٔ کاره در حافظهٔ داخلی را پاک می‌کند)</string>
     <string name="version">نگارش</string>
     <string name="about_version">نگارش</string>
@@ -175,7 +175,7 @@
     <string name="apps">کاره‌ها</string>
     <string name="swap_wifi_vpn_conflict">با وی‌پی‌ان فعّال تداخل دارد!</string>
     <string name="menu_release_channel_beta">اجازهٔ به‌روز رسانی‌های آزمایشی</string>
-    <string name="app_name_basic">اف‌دروید پایه</string>
+    <string name="app_name_basic">PackStore</string>
     <string name="about_title_basic">دربارهٔ اف‌دروید پایه</string>
     <string name="copied_to_clipboard">در تخته‌گیره رونوشت شد</string>
     <string name="turn_on_wifi">روشن کردن وای‌فای</string>
@@ -250,8 +250,8 @@
         <item quantity="other">به‌روز رسانی‌‌های موجود: %1$d</item>
     </plurals>
     <string name="crash_dialog_title_old">اف‌دروید فروپاشید</string>
-    <string name="app_name_full_nightly">اف‌شبانه</string>
-    <string name="app_name_basic_nightly">اف‌شبانهٔ پایه</string>
+    <string name="app_name_full_nightly">PackStore</string>
+    <string name="app_name_basic_nightly">PackStore</string>
     <string name="call_to_action_keepandroidopen">اف‌دروید در خطر است. گوگل دارد شیوهٔ نصب کاره‌ها روی افزاره‌تان را تغییر می‌دهد. نیازمند یاریتانیم.</string>
     <string name="call_to_action_keepandroidopen_url">https://keepandroidopen.org</string>
     <string name="menu_about">درباره</string>
